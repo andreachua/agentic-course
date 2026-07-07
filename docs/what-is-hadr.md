@@ -1,7 +1,8 @@
 # What is HADR?
 
 **HADR** stands for **Humanitarian Assistance and Disaster Response** — the coordinated
-effort to help people affected by natural or human-made disasters.
+effort to help people affected by natural or human-made disasters, both in the immediate
+aftermath and through the recovery that follows.
 
 ## In plain terms
 
@@ -31,5 +32,8 @@ noise, and turns raw alerts into a concise daily situation report.
 - **GDACS** — Global Disaster Alert and Coordination System
 - **USGS** — earthquake data from the U.S. Geological Survey
 - **ReliefWeb** — humanitarian news and reports curated by the UN OCHA
+
+> **Tip:** clear, timely information is the foundation of every effective response —
+> good data saves lives.
 
 See the [`feeds/`](../feeds) directory for how each source is used.
